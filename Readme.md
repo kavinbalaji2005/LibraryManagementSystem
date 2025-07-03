@@ -10,10 +10,7 @@ A desktop application for managing library operations, including book cataloging
 - [Architecture](#architecture)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-- [File Structure](#file-structure)  
 - [Dependencies](#dependencies)  
-- [Contributing](#contributing)  
-- [License](#license)  
 - [Author](#author)
 
 ---
